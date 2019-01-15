@@ -1,8 +1,3 @@
-/*
-Program #2
-Joseph Couri
-cssc0883
- */
 package data_structures;
 
 import java.util.Iterator;
